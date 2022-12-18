@@ -1,7 +1,7 @@
 import React from "react";
 import { render } from "react-dom";
 import moment from "moment";
-import { CRYPTO_COMPARE } from "../keys";
+
 import { TradingViewEmbed, widgetType } from "react-tradingview-embed";
 
 import {
